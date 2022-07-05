@@ -1,0 +1,17 @@
+@import "./variables";
+
+html {
+    background-color: $black;
+}
+
+h1 {
+    color: $grey-20;
+}
+
+h3 {
+    color: $grey-40;
+}
+
+p {
+    color: $grey-60;
+}
